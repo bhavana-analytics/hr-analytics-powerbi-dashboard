@@ -1,10 +1,11 @@
-#**HR Analytics Dashboard**
-#**Overview**
+# **HR Analytics Dashboard**
+
+# **Overview**
 
 The HR Analytics Dashboard is a Power BI report designed to provide HR teams and business stakeholders with a consolidated view of workforce composition, compensation, employee performance, and attrition trends. The report is structured across two pages, each focused on a distinct area of analysis, allowing for clear insights without overcrowding a single view.
 Dashboard Structure
 
-#**Page 1: HR Workforce & Compensation Analysis**
+# **Page 1: HR Workforce & Compensation Analysis**
 
 **KPI Cards**
 
@@ -26,7 +27,7 @@ Visualizations
 
 **5. Average Employee Experience by Department — Clustered Bar Chart** The Clustered Bar Chart compares the average employee experience across different departments. It helps identify which departments have employees with higher or lower average experience, providing a clear comparison of experience levels across the organization.
 
-#**Page 2: HR Performance & Attrition Analysis**
+# **Page 2: HR Performance & Attrition Analysis**
 
 **KPI Cards**
 
@@ -48,15 +49,15 @@ KPI Card 3 — High Performers Shows the total number of employees classified as
 
 **5. Attrition by Age Group — Clustered Column Chart** The Clustered Column Chart compares attrition across different age groups. It helps identify which age groups have higher employee turnover.
 
-#**Interactive Slicers**
+# **Interactive Slicers**
 
 The dashboard includes interactive slicers for Department, Hire Date, Performance, and Gender. These slicers allow users to dynamically filter the dashboard and explore workforce, compensation, performance, and attrition insights based on selected employee characteristics.
 
-#**Tools & Technologies**
+# **Tools & Technologies**
 -Power BI Desktop
 -DAX (Data Analysis Expressions) for calculated measures
 -Custom theme and interactive slicers
 
-#**Notes**
+# **Notes**
 -The dataset does not contain employee names or other personally identifiable information; it is intended for analytical and demonstration purposes.
 -The report and its measures can be adapted for use with other HR datasets.

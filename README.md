@@ -54,10 +54,10 @@ KPI Card 3 — High Performers Shows the total number of employees classified as
 The dashboard includes interactive slicers for Department, Hire Date, Performance, and Gender. These slicers allow users to dynamically filter the dashboard and explore workforce, compensation, performance, and attrition insights based on selected employee characteristics.
 
 # **Tools & Technologies**
--Power BI Desktop
--DAX (Data Analysis Expressions) for calculated measures
--Custom theme and interactive slicers
+-  Power BI Desktop
+-  DAX (Data Analysis Expressions) for calculated measures
+-  Custom theme and interactive slicers
 
 # **Notes**
--The dataset does not contain employee names or other personally identifiable information; it is intended for analytical and demonstration purposes.
--The report and its measures can be adapted for use with other HR datasets.
+-  The dataset does not contain employee names or other personally identifiable information; it is intended for analytical and demonstration purposes.
+-  The report and its measures can be adapted for use with other HR datasets.

@@ -5,6 +5,8 @@
 The HR Analytics Dashboard is a Power BI report designed to provide HR teams and business stakeholders with a consolidated view of workforce composition, compensation, employee performance, and attrition trends. The report is structured across two pages, each focused on a distinct area of analysis, allowing for clear insights without overcrowding a single view.
 Dashboard Structure
 
+https://github.com/bhavana-analytics/hr-analytics-powerbi-dashboard/blob/main/Page%201.PNG
+
 ### **Page 1: HR Workforce & Compensation Analysis**
 
 **KPI Cards**

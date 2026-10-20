@@ -34,6 +34,9 @@ Visualizations
 
 ### **Page 2: HR Performance & Attrition Analysis**
 
+<img width="921" height="508" alt="Page 2" src="https://github.com/user-attachments/assets/158f9819-10b4-4329-a5a4-9b438a4af380" />
+
+
 **KPI Cards**
 
 KPI Card 1 — Attrition Count Shows the total number of employees who have left the organization.

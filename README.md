@@ -7,6 +7,10 @@ The HR Analytics Report is a Power BI report designed to provide HR teams and bu
 
 ### **Page 1: HR Workforce & Compensation Analysis**
 
+![Page 1](https://github.com/user-attachments/assets/3c50d5d2-8656-49b4-a412-c3764e3d5b1b)
+
+
+
 **KPI Cards**
 
 KPI Card 1 — Total Employees Shows the total number of employees in the organization.
@@ -26,10 +30,6 @@ Visualizations
 **4. Hiring Trend — Line Chart** The Line Chart shows employee hiring patterns over time based on the Hire_Date field. It helps identify periods with higher or lower hiring activity and provides an overview of how the organization's workforce has grown over time.
 
 **5. Average Employee Experience by Department — Clustered Bar Chart** The Clustered Bar Chart compares the average employee experience across different departments. It helps identify which departments have employees with higher or lower average experience, providing a clear comparison of experience levels across the organization.
-
-
-
-![Page 1](https://github.com/user-attachments/assets/3c50d5d2-8656-49b4-a412-c3764e3d5b1b)
 
 
 ### **Page 2: HR Performance & Attrition Analysis**

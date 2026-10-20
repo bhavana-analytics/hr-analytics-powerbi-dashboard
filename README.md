@@ -27,6 +27,11 @@ Visualizations
 
 **5. Average Employee Experience by Department — Clustered Bar Chart** The Clustered Bar Chart compares the average employee experience across different departments. It helps identify which departments have employees with higher or lower average experience, providing a clear comparison of experience levels across the organization.
 
+
+
+![Page 1](https://github.com/user-attachments/assets/3c50d5d2-8656-49b4-a412-c3764e3d5b1b)
+
+
 ### **Page 2: HR Performance & Attrition Analysis**
 
 **KPI Cards**

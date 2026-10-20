@@ -1,9 +1,8 @@
-# **HR Analytics Dashboard**
+# **HR Analytics Report**
 
 ## **Overview**
 
-The HR Analytics Dashboard is a Power BI report designed to provide HR teams and business stakeholders with a consolidated view of workforce composition, compensation, employee performance, and attrition trends. The report is structured across two pages, each focused on a distinct area of analysis, allowing for clear insights without overcrowding a single view.
-Dashboard Structure
+The HR Analytics Report is a Power BI report designed to provide HR teams and business stakeholders with a consolidated view of workforce composition, compensation, employee performance, and attrition trends. The report is structured across two pages, each focused on a distinct area of analysis, allowing for clear insights without overcrowding a single view.
 
 https://github.com/bhavana-analytics/hr-analytics-powerbi-dashboard/blob/main/Page%201.PNG
 
@@ -56,7 +55,7 @@ KPI Card 3 — High Performers Shows the total number of employees classified as
 
 ### **Interactive Slicers**
 
-The dashboard includes interactive slicers for Department, Hire Date, Performance, and Gender. These slicers allow users to dynamically filter the dashboard and explore workforce, compensation, performance, and attrition insights based on selected employee characteristics.
+The report includes interactive slicers for Department, Hire Date, Performance, and Gender. These slicers allow users to dynamically filter the report and explore workforce, compensation, performance, and attrition insights based on selected employee characteristics.
 
 ### **Tools & Technologies**
 -  Power BI Desktop
